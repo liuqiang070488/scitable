@@ -1,0 +1,1 @@
+mxsum<-function(mx) {return(sum(mx,na.rm=TRUE)) }

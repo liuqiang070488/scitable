@@ -1,0 +1,1 @@
+mxmax<-function(mx) {return(ifelse(sum(!is.na(mx))==0,NA,max(mx,na.rm=TRUE)))}

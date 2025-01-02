@@ -1,0 +1,1 @@
+mxmin<-function(mx) {return(ifelse(sum(!is.na(mx))==0,NA,min(mx,na.rm=TRUE)))}

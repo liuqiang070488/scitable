@@ -1,0 +1,1 @@
+mxq1<-function(mx) {return(quantile(mx,probs=0.25,na.rm=TRUE))}

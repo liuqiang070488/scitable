@@ -1,0 +1,1 @@
+average<-function(mx) {return(mean(mx,na.rm=TRUE))}
