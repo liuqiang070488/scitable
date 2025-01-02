@@ -1,0 +1,17 @@
+Package: scitable
+Type: Package
+Title: Quickly generate various tables for papers.
+Version: 0.3.0
+Authors@R: person("Qiang", "LIU", email = "dege857@163.com",
+                  role = c("aut", "cre"))
+Maintainer: Qiang LIU <dege857@163.com> 
+Description: Quickly generate various tables for papers.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
+BugReports: https://blog.csdn.net/dege857?spm=1011.2415.3001.5343
+Imports: 
+    base64enc,
+    httr,
+    R6
